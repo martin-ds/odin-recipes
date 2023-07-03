@@ -14,3 +14,8 @@ img {
     border-color: black;
     border-style: solid;
 }
+
+ul.front-page-links li{
+    display: inline-block;
+    padding-right: 20px;
+}
